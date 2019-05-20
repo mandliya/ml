@@ -1,0 +1,27 @@
+about: {home: 'http://www.graphviz.org/', license: Eclipse Public License v1.0, summary: Graph
+    Visualization Software}
+build:
+  binary_relocation: true
+  entry_points: []
+  features: []
+  number: 3
+  string: ''
+  track_features: []
+package: {name: graphviz, version: 2.38.0}
+requirements:
+  build: [libpng, libtiff, freetype, jpeg, zlib]
+  conflicts: []
+  run: [libpng, libtiff, freetype, jpeg, zlib]
+source:
+  fn: graphviz-2.38.0.tar.gz
+  git_branch: ''
+  git_tag: ''
+  md5: 5b6a829b2ac94efcd5fa3c223ed6d3ae
+  patches: [gvconfig_libdir.patch]
+  svn_rev: ''
+  url: http://www.graphviz.org/pub/graphviz/stable/SOURCES/graphviz-2.38.0.tar.gz
+test:
+  commands: [dot -V]
+  files: []
+  imports: []
+  requires: []

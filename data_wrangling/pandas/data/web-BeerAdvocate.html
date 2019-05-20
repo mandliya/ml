@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SNAP: Web data: BeerAdvocate reviews</title>
+
+<!-- Standard reset, fonts and grids -->
+<link rel="stylesheet" type="text/css" href="../styles/reset-fonts-grids.css">
+<!-- CSS for Menu -->
+<link rel="stylesheet" type="text/css" href="../styles/sam/menu.css">
+<!-- Dependency source files -->
+  <script type="text/javascript" src="../styles/yahoo-dom-event.js"></script>
+  <script type="text/javascript" src="../styles/container_core.js"></script>
+  <!-- Menu source file -->
+  <script type="text/javascript" src="../styles/menu.js"></script>
+  <!-- styles for the whole website -->
+  <link href="../styles/styles.css" rel="stylesheet" type="text/css" />
+  <!-- javascript for the menu -->
+  <script type="text/javascript">
+    YAHOO.util.Event.onContentReady("graphgardenmainmenu", function () {
+    var oMenu = new YAHOO.widget.Menu("graphgardenmainmenu", { position: "static", hidedelay:  0, lazyload: true }); oMenu.render(); });
+  </script>
+</head>
+
+<body class="yui-skin-sam" id="yahoo-com">
+
+<div id="doc" class="yui-t1">
+
+<div id="hd">
+<!-- START: header -->
+<div id="header"><a href="http://cs.stanford.edu/~jure/"><img id="by-jure" src="../images/by_jure.gif" alt="By Jure Leskovec" /></a><img id="mld-logo" src="../images/empty_logo.png" alt="" /><a href="http://www.stanford.edu/"><img id="cmu-logo" src="../images/stanford.png" alt="Stanford University" /></a></div>
+<!-- END: header -->
+</div>
+
+<!-- START: left column -->
+<div id="left-column">
+<!--BEGIN left_column.html -->
+  <a href="../index.html"><img id="snap-logo" src="../images/snap_logo.png" alt="SNAP logo" /></a>
+
+  <div id="graphgardenmainmenu" class="yuimenu">
+    <div class="bd">
+      <ul class="first-of-type">
+      <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="../snap/index.html">SNAP for C++</a>
+        <div id="snapcpp" class="yuimenu">
+          <div class="bd">
+            <ul>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../snap/index.html">SNAP C++ Main Page</a></li>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../snap/download.html">SNAP C++ Download</a></li>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../snap/doc.html">SNAP C++ Documentation</a></li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="../snappy/index.html">SNAP for Python</a>
+        <div id="snappy" class="yuimenu">
+          <div class="bd">
+            <ul>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../snappy/index.html">Snap.py Python Main Page</a></li>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../snappy/index.html#download">Snap.py Python Download</a></li>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../snappy/index.html#docs">Snap.py Python Documentation</a></li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="../data/index.html">SNAP Datasets</a>
+        <div id="datasets" class="yuimenu">
+          <div class="bd">
+            <ul>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../data/index.html">Large networks</a></li>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../data/other.html">Web datasets</a></li>
+              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../data/links.html">Other resources</a></li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li class="yuimenuitem"><a class="yuimenuitemlabel"  href="../news.html">What's new</a></li>
+	    <li class="yuimenuitem"><a class="yuimenuitemlabel"  href="../people.html">People</a></li>
+      <li class="yuimenuitem"><a class="yuimenuitemlabel"  href="../papers.html">Papers</a></li>
+      <li class="yuimenuitem"><a class="yuimenuitemlabel"  href="../citing.html">Citing SNAP</a></li>
+      <li class="yuimenuitem"><a class="yuimenuitemlabel"  href="../links.html">Links</a></li>
+      <li class="yuimenuitem"><a class="yuimenuitemlabel"  href="../about.html">About</a></li>
+      <li class="yuimenuitem"><a class="yuimenuitemlabel"  href="../contact.html">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="graphgardenmainmenu" class="yuimenu">
+    <div style="color:#ff8b00; font-weight: bold; font-size: 1.2em; padding-top: 10px; padding-bottom: 3px;">Open positions</div>
+  </div>
+
+  <div id="graphgardenmainmenu" class="yuimenu">
+    <div class="bd" style="padding: 2px 4px 2px 4px; ">
+    We have filled all the positions for this quarter.
+    <b><a href="http://snap.stanford.edu/apply/index.php">More info</a></b>.
+    </div>
+  </div>    
+		    
+
+<!--END left_column.html -->
+
+</div>
+<!-- END: left column -->
+
+<!-- START: right column -->
+<div id="right-column">
+
+<h1>Web data: BeerAdvocate reviews</h1>
+
+<h3>Dataset information</h3>
+
+<p>This dataset consists of beer reviews from <a href="http://www.beeradvocate.com">beeradvocate</a>. The data span a period of more than 10 years, including all ~1.5 million reviews up to November 2011. Each review includes ratings in terms of five "aspects": appearance, aroma, palate, taste, and overall impression. Reviews include product and user information, followed by each of these five ratings, and a plaintext review. We also have reviews from <a href="web-RateBeer.html">ratebeer</a>.
+</p>
+
+<br>
+
+<table id="datatab" summary="Dataset statistics">
+  <tr> <th colspan="2">Dataset statistics</th> </tr>
+  <tr><td>Number of reviews</td> <td>1,586,259</td> </tr>
+  <tr><td>Number of users</td> <td>33,387</td> </tr>
+  <tr><td>Number of beers</td> <td>66,051</td> </tr>
+  <tr><td>Users with > 50 reviews</td> <td>4,787</td> </tr>
+  <tr><td>Median no. of words per review</td> <td>126</td> </tr>
+  <tr><td>Timespan</td> <td>Jan 1998 - Nov 2011</td> </tr>
+</table>
+
+<br>
+
+<h3>Source (citation)</h3>
+<ul>
+  <li>J. McAuley, J. Leskovec, and D. Jurafsky. <a href="http://i.stanford.edu/~julian/pdfs/icdm2012.pdf">Learning attitudes and attributes from multi-aspect reviews</a>. ICDM, 2012.</li>
+  <li>J. McAuley and J. Leskovec. <a href="http://i.stanford.edu/~julian/pdfs/www13.pdf">From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews</a>. WWW, 2013.</li>
+</ul>
+<br>
+
+<h3><font color="red">As per request from BeerAdvocate the data is no longer available.</font></h3>
+<!--
+<h3>Files</h3>
+<table id="datatab" summary="Table of datasets">
+<tr>
+  <th>File</th>
+  <th>Description</th>
+</tr>
+<tr>
+  <td><a href="Beeradvocate.txt.gz">Beeradvocate.txt.gz</a></td>
+  <td>BeerAdvocate data (~1.5 million reviews)</td>
+</tr>
+<tr>
+  <td><a href="Beeradvocate-labels1.xlsx">Beeradvocate-labels1.xlsx</a></td>
+  <td>Labeled data (first oDesk labeler)</td>
+</tr>
+<tr>
+  <td><a href="Beeradvocate-labels2.xlsx">Beeradvocate-labels2.xlsx</a></td>
+  <td>Labeled data (second oDesk labeler)</td>
+</tr>
+</table>
+
+
+<h3>Data format</h3>
+<div class="code">beer/name: Caldera OBF 15
+beer/beerId: 12386
+beer/brewerId: 1075
+beer/ABV: 5.60
+beer/style: American Pale Lager
+review/appearance: 4
+review/aroma: 3
+review/palate: 4
+review/taste: 4
+review/overall: 4
+review/time: 1062311123
+review/profileName: beerguy101
+review/text: More of a 'dry' than a lager, tasted at the 2002 Oregon Brewers Festival.
+Orange color, orange flavor in nose. Light malts and fairly aggressively hopped; yet it
+is not very bitter. Interesting taste, complex and subtle. Light yet flavorful.
+Mouthfeel is full and round. Finish is clean and smooth. Aftertaste is slightly bitter.
+Nice beer. Would be a great beer to sip during a hot summer day.
+</div>
+
+<p>where
+  <ul>
+    <li><tt>beer/name</tt>: name of the beer</li>
+    <li><tt>beer/beerId</tt>: id of the beer, e.g. <a href="http://beeradvocate.com/beer/profile/1075/12386/">beeradvocate.com/beer/profile/1075/12386/</a></li>
+    <li><tt>beer/brewerId</tt>: id of the brewery, e.g. <a href="http://beeradvocate.com/beer/profile/1075/">beeradvocate.com/beer/profile/1075/</a></li>
+    <li><tt>beer/ABV</tt>: alcohol by volume of the beer</li>
+    <li><tt>beer/style</tt>: style of the beer, e.g. <a href="http://beeradvocate.com/beer/style/">beeradvocate.com/beer/style/</a></li>
+    <li><tt>review/appearance</tt>: rating of the beer's appearance/look</li>
+    <li><tt>review/aroma</tt>: rating of the beer's aroma/smell</li>
+    <li><tt>review/palate</tt>: rating of the beer's palate/mouthfeel</li>
+    <li><tt>review/taste</tt>: rating of the beer's taste</li>
+    <li><tt>review/overall</tt>: rating of the beer's overall quality/drinkability</li>
+    <li><tt>review/time</tt>: time of the review (unix time)</li>
+    <li><tt>review/profileName</tt>: user name of the reviewer</li>
+    <li><tt>review/text</tt>: text of the review
+  </ul>
+</p>
+-->
+
+</div>
+<!-- END: right column -->
+
+<div id="footer">
+<!-- you can put something here -->
+</div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-342639-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>

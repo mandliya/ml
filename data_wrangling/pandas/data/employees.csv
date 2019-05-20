@@ -1,0 +1,8 @@
+name,id,position,manager,datehired
+Sally Owner,1,owner,0,2010-01-01
+Juan Supervisor,2,manager,1,2010-01-02
+Vijay Salesman,3,seller,2,2010-01-15
+Joe Manager,4,manager,1,2010-02-10
+Susan Park,5,seller,4,2011-11-27
+Lei Hu,6,seller,2,2011-11-10
+Marcel Marketer,7,seller,1,2011-12-20

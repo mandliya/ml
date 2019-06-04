@@ -5,4 +5,4 @@
     - Exploring pandas data-structures (Series and DataFrame) in detail
     - We fetch Google's stock data and perform various data analysis on it which includes reading data from various sources, filter, visualize, and apply statistics on top of it. : [Notebook](data_wrangling/pandas/pandas_handson.ipynb)
 
-- **Never on a Friday or Turning Tuesday**: A simple exploratory data analysis of stock market data to determine if Tuesdays are "Turning Tuesdays". [Notebook](data_wrangling/pandas/turning_tuesdays.ipynb)
+- **Never on a Friday or Turning Tuesday**: A simple exploratory data analysis of stock market data to determine if Tuesdays are "Turning Tuesdays". [Notebook](data_wrangling/pandas/never_on_a_friday.ipynb)

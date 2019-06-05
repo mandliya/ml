@@ -5,4 +5,6 @@
     - Exploring pandas data-structures (Series and DataFrame) in detail
     - We fetch Google's stock data and perform various data analysis on it which includes reading data from various sources, filter, visualize, and apply statistics on top of it. : [Notebook](data_wrangling/pandas/pandas_handson.ipynb)
 
-- **Never on a Friday or Turning Tuesday**: A simple exploratory data analysis of stock market data to determine if Tuesdays are "Turning Tuesdays". [Notebook](data_wrangling/pandas/never_on_a_friday.ipynb)
+- **Never on a Friday or Turning Tuesday**: A simple exploratory data analysis of stock market data to determine if Tuesdays are "Turning Tuesdays". : [Notebook](data_wrangling/pandas/never_on_a_friday.ipynb)
+
+- **Handling missing values in pandas**: This notebook provides a good overview of how pandas handle missing values and explores functions it provides to handle missing data. : [Notebook](data_wrangling/pandas/handling_missing_data.ipynb)

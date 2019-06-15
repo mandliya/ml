@@ -1,0 +1,3 @@
+Domino keeps track of empty directories by creating a placeholder file named '.dominokeep'.
+You can ignore these files; they are just used for tracking otherwise empty directories.
+If you don't want a directory to be tracked in this way, add it to the '.dominoignore' file.

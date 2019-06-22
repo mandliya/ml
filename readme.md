@@ -1,14 +1,17 @@
 ## Machine Learning Projects
 ### Data Wrangling
-- **Data Wrangling using Quandl Api**: We retrieve financial data of a stock using quandl api and do basic data analysis using plain vanilla python. : [Notebook](data_wrangling/api/data_wrangling_using_api.ipynb) 
-- **Pandas from scratch**: This notebook covers take an in-depth look at Pandas, the swiss army knife for data analysis.
-    - Exploring pandas data-structures (Series and DataFrame) in detail
-    - We fetch Google's stock data and perform various data analysis on it which includes reading data from various sources, filter, visualize, and apply statistics on top of it. : [Notebook](data_wrangling/pandas/pandas_handson.ipynb)
+| Current Status|     Stats     |
+| :------------: | :----------: |
+| Total Machine Learning Problems | 7 |
+| Current Daily Streak| 1 |
+| Last updated | 06/21/2019|
 
-- **Never on a Friday or Turning Tuesday**: A simple exploratory data analysis of stock market data to determine if Tuesdays are "Turning Tuesdays". : [Notebook](data_wrangling/pandas/never_on_a_friday.ipynb)
-
-- **Handling missing values in pandas**: This notebook provides a good overview of how pandas handle missing values and explores functions it provides to handle missing data. : [Notebook](data_wrangling/pandas/handling_missing_data.ipynb)
-
-- **Mini-Project: Data Wrangling and Transformation with Pandas**: In this mini-project we explore multiple datasets (movie, cast, release) to do an extensive data exploration, analysis and visualtion. : [Notebook](data_wrangling/pandas/data_wrangling_transformations_movie.ipynb)
-
-- **Data Wrangling with JSON**: This notebook helps understanding Panda's JSON functionality. It also has some challenges which require some fun data-wrangling (e.g. missing values etc). [Notebook](data_wrangling/json/Mini_Project_Wrangling_Json_Exercise.ipynb)
+| Project | Description | Notebook | Notes |
+| :------:| :---------: | :------: | :---: |
+| **Data Wrangling using Quandl Api** |  We retrieve financial data of a stock using quandl api and do basic data analysis using plain vanilla python. | [data_wrangling_using_api.ipynb](data_wrangling/api/data_wrangling_using_api.ipynb) | - |
+|**Pandas from scratch**| This notebook takes an in-depth look at Pandas, the swiss army knife for data analysis.<ul><li> Exploring pandas data-structures (Series and DataFrame) in detail.</li></ul>.<ul><li>We fetch Google's stock data and perform various data analysis on it which includes reading data from various sources, filter, visualize, and apply statistics on top of it.</li></ul>.|[pandas_handson.ipynb](data_wrangling/pandas/pandas_handson.ipynb)|-|
+|**Never on a Friday or Turning Tuesday**| A simple exploratory data analysis of stock market data to determine if Tuesdays are *Turning Tuesdays*.| [never_on_a_friday.ipynb](data_wrangling/pandas/never_on_a_friday.ipynb)|-|
+|**Handling missing values in pandas**| This notebook provides a good overview of how pandas handle missing values and explores functions it provides to handle missing data.| [handling_missing_data.ipynb](data_wrangling/pandas/handling_missing_data.ipynb)|
+|**Mini-Project: Data Wrangling and Transformation with Pandas**| In this mini-project we explore multiple datasets (movie, cast, release) to do an extensive data exploration, analysis and visualtion. | [data_wrangling_transformations_movie.ipynb](data_wrangling/pandas/data_wrangling_transformations_movie.ipynb)| - |
+|**Data Wrangling with JSON**| This notebook helps understanding Panda's JSON functionality. It also has some challenges which require some fun data-wrangling (e.g. missing values etc).| [Mini_Project_Wrangling_Json_Exercise.ipynb](data_wrangling/json/Mini_Project_Wrangling_Json_Exercise.ipynb)|-|
+|**67 years of Lego**| An exploratory data analysis of fun dataset on every single lego block that has ever been built. Lot of good pandas aggregation| [lego_analysis.ipynb](data_wrangling/exploring_67_years_of_lego/lego_analysis.ipynb)| Source: [Datacamp](https://projects.datacamp.com/projects/10)|

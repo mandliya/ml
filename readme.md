@@ -1,10 +1,12 @@
 ## Machine Learning Projects
-### Data Wrangling
+
 | Current Status|     Stats     |
 | :------------: | :----------: |
 | Total Machine Learning Problems | 7 |
 | Current Daily Streak| 1 |
 | Last updated | 06/21/2019|
+
+### Data Wrangling
 
 | Project | Description | Notebook | Notes |
 | :------:| :--------- | :------: | :---: |

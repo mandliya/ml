@@ -2,9 +2,10 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Problems | 7 |
+| Total Machine Learning Problems | 8 |
 | Current Daily Streak| 1 |
-| Last updated | 06/21/2019|
+| Last Streak | 06/21/2019 - 06/21/2019|
+| Current Streak | 06/23/2019 - |
 
 ### Data Wrangling
 
@@ -17,3 +18,4 @@
 |**Mini-Project: Data Wrangling and Transformation with Pandas**| In this mini-project we explore multiple datasets (movie, cast, release) to do an extensive data exploration, analysis and visualtion. | [data_wrangling_transformations_movie.ipynb](data_wrangling/pandas/data_wrangling_transformations_movie.ipynb)| - |
 |**Data Wrangling with JSON**| This notebook helps understanding Panda's JSON functionality. It also has some challenges which require some fun data-wrangling (e.g. missing values etc).| [Mini_Project_Wrangling_Json_Exercise.ipynb](data_wrangling/json/Mini_Project_Wrangling_Json_Exercise.ipynb)|-|
 |**67 years of Lego**| An exploratory data analysis of fun dataset on every single lego block that has ever been built. Lot of good pandas aggregation| [lego_analysis.ipynb](data_wrangling/exploring_67_years_of_lego/lego_analysis.ipynb)| Source: [Datacamp](https://projects.datacamp.com/projects/10)|
+|**Explore the crypto-currency Bitcoin market**| In this notebook we do an in-depth analysis of crypto-currency market cap analysis, and visualize top gainers and losers in a fun way! This analysis tells you how risky or profitable this market is currently.|[cryptocurrency_analysis.ipynb](data_wrangling/exploring_the_bitcon_crypto_market/cryptocurrency_analysis.ipynb)|-|

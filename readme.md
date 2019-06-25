@@ -1,11 +1,17 @@
-## Machine Learning Projects
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Problems | 9 |
-| Current Daily Streak| 2 |
+| Total Machine Learning Projects | 11 |
+| Current Daily Streak| 3 |
 | Last Streak | 06/21/2019 - 06/21/2019|
-| Current Streak | 06/23/2019 - 06/24/2019 |
+| Current Streak | 06/23/2019 - 06/25/2019 |
+
+- [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)
+  - [Data Wrangling](#Data-Wrangling)
+  - [SQL](#SQL)
+  - [Time Series](#Time-Series)
+  
+## Machine Learning and Deep Learning Projects
 
 ### Data Wrangling
 
@@ -20,3 +26,14 @@
 |7.|**67 years of Lego**| An exploratory data analysis of fun dataset on every single lego block that has ever been built. Lot of good pandas aggregation| [lego_analysis.ipynb](data_wrangling/exploring_67_years_of_lego/lego_analysis.ipynb)| Source: [Datacamp](https://projects.datacamp.com/projects/10)|
 |8.|**Explore the crypto-currency Bitcoin market**| In this notebook we do an in-depth analysis of crypto-currency market cap analysis, and visualize top gainers and losers in a fun way! This analysis tells you how risky or profitable this market is currently.|[cryptocurrency_analysis.ipynb](data_wrangling/exploring_the_bitcoin_crypto_market/cryptocurrency_analysis.ipynb)|-|
 |9.|**Discovery of Handwashing**| This notebook tells the story of discovery of handwashing, and how Dr. Ignaz Semmelweis brought down the deaths of women who just gave birth caused *childbed* fever .|[discovery_of_handwashing.ipynb](data_wrangling/discovery_of_handwashing/discovery_of_handwashing.ipynb)|-|
+
+
+### SQL
+|No. | Project | Description | Notebook | Notes |
+|:--:| :------:| :--------- | :------: | :---: |
+|1.|**SQL Spark at scale**| In this notebook, we work through a series of exercises using Spark SQL and familiarize ourselves with how SQL works with spark.|[Mini_Project_SQL_with_Spark.ipynb](sql/sql_with_spark/Mini_Project_SQL_with_Spark.ipynb)| One of the ways to use this notebook is to try [domino trial](https://trial.dominodatalab.com), create a pyspark workspace and launch this [notebook](https://trial.dominodatalab.com/u/mandliya/springboard-mini-projects/view/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb), as we need a pyspark environment.|
+
+### Time Series
+|No. | Project | Description | Notebook | Notes |
+|:--:| :------:| :--------- | :------: | :---: |
+|1.|**Working with time series in python**|This notebook teaches basics of time series analysis. We take a fun dataset of Seattle's Fremont Bridge bicycle data and Google's stock data to visualize, understand and work through dates and time in Python|[Time_series_basics.ipynb](time_series/Time_series_basics.ipynb).|Data is fetched directly from web.|

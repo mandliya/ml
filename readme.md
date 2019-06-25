@@ -31,7 +31,7 @@
 ### SQL
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
-|1.|**SQL Spark at scale**| In this notebook, we work through a series of exercises using Spark SQL and familiarize ourselves with how SQL works with spark.|[Mini_Project_SQL_with_Spark.ipynb](sql/sql_with_spark/Mini_Project_SQL_with_Spark.ipynb)| One of the ways to use this notebook is to try [domino trial](https://trial.dominodatalab.com), create a pyspark workspace and launch this [notebook](https://trial.dominodatalab.com/u/mandliya/springboard-mini-projects/view/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb), as we need a pyspark environment.|
+|1.|**SQL Spark at scale**| In this notebook, we work through a series of exercises using Spark SQL and familiarize ourselves with how SQL works with spark.|[Mini_Project_SQL_with_Spark.ipynb](sql/sql_with_spark/Mini_Project_SQL_with_Spark.ipynb)| One of the ways to use this notebook is to try [domino trial](https://trial.dominodatalab.com), create a pyspark workspace and launch this [notebook](https://trial.dominodatalab.com/u/mandliya/springboard-mini-projects/view/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb), as we need a pyspark environment.|
 
 ### Time Series
 |No. | Project | Description | Notebook | Notes |

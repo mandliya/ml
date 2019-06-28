@@ -2,9 +2,9 @@
 | Current Status|     Stats     |
 | :------------: | :----------: |
 | Total Machine Learning Projects | 12 |
-| Current Daily Streak| 4 |
+| Current Daily Streak| 5 |
 | Last Streak | 06/21/2019 - 06/21/2019|
-| Current Streak | 06/23/2019 - 06/26/2019 |
+| Current Streak | 06/23/2019 - 06/27/2019 |
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)
   - [Data Wrangling](#Data-Wrangling)
@@ -27,6 +27,7 @@
 |8.|**Explore the crypto-currency Bitcoin market**| In this notebook we do an in-depth analysis of crypto-currency market cap analysis, and visualize top gainers and losers in a fun way! This analysis tells you how risky or profitable this market is currently.|[cryptocurrency_analysis.ipynb](data_wrangling/exploring_the_bitcoin_crypto_market/cryptocurrency_analysis.ipynb)|-|
 |9.|**Discovery of Handwashing**| This notebook tells the story of discovery of handwashing, and how Dr. Ignaz Semmelweis brought down the deaths of women who just gave birth caused *childbed* fever .|[discovery_of_handwashing.ipynb](data_wrangling/discovery_of_handwashing/discovery_of_handwashing.ipynb)|-|
 |10.|**Exploring evaluation of linux**| This notebook does exploratory data analysis on Linux git commit history. A good lot of pandas!|[exploring_the_evaluation_of_linux.ipynb](data_wrangling\exploring_the_evaluation_of_linux\exploring_the_evaluation_of_linux.ipynb)|-|
+|10.|**The github history of Scala Language**| This notebook explore the pull requests of Scala language project on github and does interesting analysis of pull requests based on authors, year, months etc|[EDA_scala_history.ipynb](data_wrangling\the_github_history_of_the_scala_language\EDA_scala_history.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/163)|
 
 
 ### SQL

@@ -2,9 +2,9 @@
 | Current Status|     Stats     |
 | :------------: | :----------: |
 | Total Machine Learning Projects | 13 |
-| Current Daily Streak| 5 |
+| Current Daily Streak| 6 |
 | Last Streak | 06/21/2019 - 06/21/2019|
-| Current Streak | 06/23/2019 - 06/27/2019 |
+| Current Streak | 06/23/2019 - 06/28/2019 |
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)
   - [Data Wrangling](#Data-Wrangling)
@@ -28,6 +28,7 @@
 |9.|**Discovery of Handwashing**| This notebook tells the story of discovery of handwashing, and how Dr. Ignaz Semmelweis brought down the deaths of women who just gave birth caused *childbed* fever .|[discovery_of_handwashing.ipynb](data_wrangling/discovery_of_handwashing/discovery_of_handwashing.ipynb)|-|
 |10.|**Exploring evaluation of linux**| This notebook does exploratory data analysis on Linux git commit history. A good lot of pandas!|[exploring_the_evaluation_of_linux.ipynb](data_wrangling\exploring_the_evaluation_of_linux\exploring_the_evaluation_of_linux.ipynb)|-|
 |11.|**The github history of Scala Language**| This notebook explore the pull requests of Scala language project on github and does interesting analysis of pull requests based on authors, year, months etc|[EDA_scala_history.ipynb](data_wrangling\the_github_history_of_the_scala_language\EDA_scala_history.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/163)|
+|12.|**Who is drunk and when in Ames, Iowa**|Ames, Iowa is home to Iowa State University. Ames has had its fair share of alcohol-related incidents. (For example, Google 'VEISHEA riots 2014'). In this notebook, we analyze and visualize some breath alcohol test data from Ames that is published by the State of Iowa.|[EDA_Ames_iowa_drinking.ipynb](data_wrangling/who_is_drunk_and_when_in_Ames_Iowa/EDA_Ames_iowa_drinking.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/475)|
 
 
 ### SQL

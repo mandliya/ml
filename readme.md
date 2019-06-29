@@ -1,7 +1,7 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 13 |
+| Total Machine Learning Projects | 14 |
 | Current Daily Streak| 6 |
 | Last Streak | 06/21/2019 - 06/21/2019|
 | Current Streak | 06/23/2019 - 06/28/2019 |

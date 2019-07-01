@@ -1,10 +1,10 @@
 
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 15 |
-| Current Daily Streak| 7 |
+| Total Machine Learning Projects | 16 |
+| Current Daily Streak| 8 |
 | Last Streak | 06/21/2019 - 06/21/2019|
-| Current Streak | 06/23/2019 - 06/29/2019 |
+| Current Streak | 06/23/2019 - 06/30/2019 |
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)
   - [Data Wrangling](#Data-Wrangling)
@@ -30,7 +30,7 @@
 |11.|**The github history of Scala Language**| This notebook explore the pull requests of Scala language project on github and does interesting analysis of pull requests based on authors, year, months etc|[EDA_scala_history.ipynb](data_wrangling/the_github_history_of_the_scala_language/EDA_scala_history.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/163)|
 |12.|**Who is drunk and when in Ames, Iowa**|Ames, Iowa is home to Iowa State University. Ames has had its fair share of alcohol-related incidents. (For example, Google 'VEISHEA riots 2014'). In this notebook, we analyze and visualize some breath alcohol test data from Ames that is published by the State of Iowa.|[EDA_Ames_iowa_drinking.ipynb](data_wrangling/who_is_drunk_and_when_in_Ames_Iowa/EDA_Ames_iowa_drinking.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/475)|
 |13.|**Working with strings in Pandas**|In this notebooks, we explore string manipulation and easy analysis string operations on pandas.|[Working_With_Strings.ipynb](data_wrangling/pandas/Working_With_Strings.ipynb)|Source:[Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb)|
-
+|14.|**A New Era of Data Analysis in Baseball**| In this notebook, we will use Statcast data to compare the home runs of two of baseball's brightest (and largest) stars, Aaron Judge (6'7") and Giancarlo Stanton (6'6"), both of whom now play for the New York Yankees.|[data_analysis_in_pandas.ipynb](data_wrangling/A_new_Era_of_data analysis_in_baseball/data_analysis_in_baseball.ipynb)| source: [Datacamp](https://www.datacamp.com/projects/250)
 
 ### SQL
 |No. | Project | Description | Notebook | Notes |

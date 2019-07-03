@@ -2,9 +2,9 @@
 | Current Status|     Stats     |
 | :------------: | :----------: |
 | Total Machine Learning Projects | 17 |
-| Current Daily Streak| 9 |
+| Current Daily Streak| 10 |
 | Last Streak | 06/21/2019 - 06/21/2019|
-| Current Streak | 06/23/2019 - 07/01/2019 |
+| Current Streak | 06/23/2019 - 07/02/2019 |
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)
   - [Data Wrangling](#Data-Wrangling)

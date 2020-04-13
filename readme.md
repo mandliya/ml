@@ -22,12 +22,10 @@
 |:--:| :------:| :--------- | :------: | :---: |
 |1.| The Machine Learning Landscape | The basics of machine learning terminology, types and challenges | To be updated | Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
 |2.| End to End Machine Learning Project | In this project we will go through an example project end to end, pretending to be a recently hired data scientist in a real estate company.Here are the main steps you will go through: <ol><li>Look at the big picture.</li> <li>Get the data.</li><li>Discover and visualize the data to gain insights.</li><li>Prepare the data for Machine Learning algorithms.</li><li>Select a model and train it.</li><li>Fine-tune your model.</li><li>Present your solution.</li><li>Launch, monitor, and maintain your system</li></ol>|[End_to_end_machine_learning_project.ipynb](2/End_to_end_machine_learning_project.ipynb)| Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
-
 <!-- Hands on Machine Learning end -->
 
 <!--- Data Wrangling start --->
 ### Data Wrangling
-
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.| **Data Wrangling using Quandl Api** |  We retrieve financial data of a stock using quandl api and do basic data analysis using plain vanilla python. | [data_wrangling_using_api.ipynb](data_wrangling/api/data_wrangling_using_api.ipynb) | - |
@@ -47,12 +45,14 @@
 |15.|**Name Game: Gender prediction using sound**| A fun analysis of NYT's authors dataset of Children’s Picture Books. We analyze the gender distribution of authors to see if there have been changes over years based on author's names and how they sound using nysiis algorithm.|[name_game.ipynb](data_wrangling/name_game_gender_prediction_using_sound/name_game.ipynb) | source: [Datacamp](https://www.datacamp.com/projects/97) |
 <!--- Data Wrangling end --->
 
+<!--- SQL start --->
 ### SQL
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**SQL Spark at scale**| In this notebook, we work through a series of exercises using Spark SQL and familiarize ourselves with how SQL works with spark.|[Mini_Project_SQL_with_Spark.ipynb](sql/sql_with_spark/Mini_Project_SQL_with_Spark.ipynb)| One of the ways to use this notebook is to try [domino trial](https://trial.dominodatalab.com), create a pyspark workspace and launch this [notebook](https://trial.dominodatalab.com/u/mandliya/springboard-mini-projects/view/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb), as we need a pyspark environment.|
 <!--- SQL end --->
 
+<!--- Time Series start --->
 ### Time Series
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |

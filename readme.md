@@ -1,11 +1,14 @@
 
+
+![alt tag](https://raw.githubusercontent.com/mandliya/ml/scripts/quote.jpg)
+
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 17 |
-| Current Daily Streak | 10 |
-| Last Streak | 06/21/2019 - 06/21/2019|
-| Current Streak | 06/23/2019 - 07/02/2019 |
+| Total Machine Learning Projects | 18 |
+| Current Daily Streak | 1 |
+| Last Streak Dates | 06/23/2019 - 07/02/2019 |
+| Current Streak Dates | 04/13/2020 - 04/13/2020 |
 <!-- streaktable end -->
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)

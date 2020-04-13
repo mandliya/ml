@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 .vscode
+*.bak
+readme2.md
+*.ini

@@ -1,6 +1,6 @@
 
 
-![alt tag](https://raw.githubusercontent.com/mandliya/ml/scripts/quote.jpg)
+![alt tag](https://raw.githubusercontent.com/mandliya/ml/master/scripts/quote.jpg)
 
 <!-- streaktable start -->
 | Current Status|     Stats     |

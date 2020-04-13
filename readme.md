@@ -1,18 +1,31 @@
 
+<!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
 | Total Machine Learning Projects | 17 |
-| Current Daily Streak| 10 |
+| Current Daily Streak | 10 |
 | Last Streak | 06/21/2019 - 06/21/2019|
 | Current Streak | 06/23/2019 - 07/02/2019 |
+<!-- streaktable end -->
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)
+  - [Hands on Machine Learning](#Hands-on-Machine-Learning)
   - [Data Wrangling](#Data-Wrangling)
   - [SQL](#SQL)
   - [Time Series](#Time-Series)
   
 ## Machine Learning and Deep Learning Projects
 
+<!-- Hands on Machine Learning start -->
+### Hands on Machine Learning
+|No. | Project | Description | Notebook | Notes |
+|:--:| :------:| :--------- | :------: | :---: |
+|1.| The Machine Learning Landscape | The basics of machine learning terminology, types and challenges | To be updated | Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
+|2.| End to End Machine Learning Project | In this project we will go through an example project end to end, pretending to be a recently hired data scientist in a real estate company.Here are the main steps you will go through: <ol><li>Look at the big picture.</li> <li>Get the data.</li><li>Discover and visualize the data to gain insights.</li><li>Prepare the data for Machine Learning algorithms.</li><li>Select a model and train it.</li><li>Fine-tune your model.</li><li>Present your solution.</li><li>Launch, monitor, and maintain your system</li></ol>|[End_to_end_machine_learning_project.ipynb](2/End_to_end_machine_learning_project.ipynb)| Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
+
+<!-- Hands on Machine Learning end -->
+
+<!--- Data Wrangling start --->
 ### Data Wrangling
 
 |No. | Project | Description | Notebook | Notes |
@@ -32,13 +45,16 @@
 |13.|**Working with strings in Pandas**|In this notebooks, we explore string manipulation and easy analysis string operations on pandas.|[Working_With_Strings.ipynb](data_wrangling/pandas/Working_With_Strings.ipynb)|Source:[Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb)|
 |14.|**A New Era of Data Analysis in Baseball**| In this notebook, we will use Statcast data to compare the home runs of two of baseball's brightest (and largest) stars, Aaron Judge (6'7") and Giancarlo Stanton (6'6"), both of whom now play for the New York Yankees.|[data_analysis_in_pandas.ipynb](data_wrangling/a_new_era_of_data_analysis_in_baseball/data_analysis_in_baseball.ipynb)| source: [Datacamp](https://www.datacamp.com/projects/250)|
 |15.|**Name Game: Gender prediction using sound**| A fun analysis of NYT's authors dataset of Children’s Picture Books. We analyze the gender distribution of authors to see if there have been changes over years based on author's names and how they sound using nysiis algorithm.|[name_game.ipynb](data_wrangling/name_game_gender_prediction_using_sound/name_game.ipynb) | source: [Datacamp](https://www.datacamp.com/projects/97) |
+<!--- Data Wrangling end --->
 
 ### SQL
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**SQL Spark at scale**| In this notebook, we work through a series of exercises using Spark SQL and familiarize ourselves with how SQL works with spark.|[Mini_Project_SQL_with_Spark.ipynb](sql/sql_with_spark/Mini_Project_SQL_with_Spark.ipynb)| One of the ways to use this notebook is to try [domino trial](https://trial.dominodatalab.com), create a pyspark workspace and launch this [notebook](https://trial.dominodatalab.com/u/mandliya/springboard-mini-projects/view/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb), as we need a pyspark environment.|
+<!--- SQL end --->
 
 ### Time Series
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**Working with time series in python**|This notebook teaches basics of time series analysis. We take a fun dataset of Seattle's Fremont Bridge bicycle data and Google's stock data to visualize, understand and work through dates and time in Python|[Time_series_basics.ipynb](time_series/Time_series_basics.ipynb).|Data is fetched directly from web.|
+<!--- Time Series end --->

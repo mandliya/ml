@@ -1,6 +1,6 @@
 
 
-![alt tag](https://raw.githubusercontent.com/mandliya/ml/master/scripts/quote.jpg)
+![alt tag](https://raw.githubusercontent.com/mandliya/ml/master/utils/quote.jpg)
 
 <!-- streaktable start -->
 | Current Status|     Stats     |
@@ -9,6 +9,7 @@
 | Current Daily Streak | 1 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
 | Current Streak Dates | 04/13/2020 - 04/13/2020 |
+| Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)

@@ -175,7 +175,7 @@ readMeUpdater = ReadMeUpdater()
 readMeUpdater.print_search_index()
 readMeUpdater.update_streak_stats()
 readMeUpdater.add_new_project()
-readMeUpdater.save_readme('readme2.md')
+readMeUpdater.save_readme()
 readMeUpdater.update_daily_log()
 
 

@@ -1,7 +1,8 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
-| 6 | 6 | 16 April 2020 | Some good progress in  the chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Data preparation, attribute selection, `scikit-learn`'s transformation, One-hot encoding, pipelines and feature scaling. This is a good productive saturday!|
+| 7 | 7 | 19 April 2020 | Build models using Random Forest, Decision Tree and Linear Regression. Also revised importance of cross validation. All in chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).|
+| 6 | 6 | 18 April 2020 | Some good progress in  the chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Data preparation, attribute selection, `scikit-learn`'s transformation, One-hot encoding, pipelines and feature scaling. This is a good productive saturday!|
 | 5 | 5 | 17 April 2020 | Continuing the chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Stratified Sampling, Correlation Coefficient and visualization. Slow but steady! |
 | 4 | 4 | 16 April 2020 | chapter 2 End to End Machine Learning of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Worked on explaining the RMSE and `test_train_split`. Very slow progress, need to improve. |
 | 3 | 3 | 15 April 2020 | Made very little progress in chapter 2 End to End Machine Learning of the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Analyzed the histograms of the housing data, and created test/train sets. In hope of better tomorrow. |

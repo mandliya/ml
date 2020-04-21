@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 8 | 8 | 20 April 2020 | Fine-tuning the models using grid search. Chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Too much on plate today, so this is the best I could get done. Much better than nothing!|
 | 7 | 7 | 19 April 2020 | Build models using Random Forest, Decision Tree and Linear Regression. Also revised importance of cross validation. All in chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).|
 | 6 | 6 | 18 April 2020 | Some good progress in  the chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Data preparation, attribute selection, `scikit-learn`'s transformation, One-hot encoding, pipelines and feature scaling. This is a good productive saturday!|
 | 5 | 5 | 17 April 2020 | Continuing the chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Stratified Sampling, Correlation Coefficient and visualization. Slow but steady! |

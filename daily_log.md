@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 9 | 9 | 21 April 2020 | Finally finished Chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Feature Importance, Test data evaluation and SVM regressor done today! Exercises next!!|
 | 8 | 8 | 20 April 2020 | Fine-tuning the models using grid search. Chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Too much on plate today, so this is the best I could get done. Much better than nothing!|
 | 7 | 7 | 19 April 2020 | Built models using Random Forest, Decision Tree and Linear Regression. Also revised importance of cross validation. All in chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).|
 | 6 | 6 | 18 April 2020 | Some good progress in  the chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Data preparation, attribute selection, `scikit-learn`'s transformation, One-hot encoding, pipelines and feature scaling. This is a good productive saturday!|

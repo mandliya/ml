@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 11 | 11 | 23 April 2020 | Started chapter 3 of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Learned classification basics. Also learned some `matplotlib` and linear algebra.|
 | 10 | 10 | 22 April 2020 | All exercises of Chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). `RandomizedSearchCV` with `SVM`, full `Scikit-Learn` pipeline with data preparation, top k feature importances and predictions.|
 | 9 | 9 | 21 April 2020 | Finally finished Chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Feature Importance, Test data evaluation and SVM regressor done today! Exercises next!!|
 | 8 | 8 | 20 April 2020 | Fine-tuning the models using grid search. Chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Too much on plate today, so this is the best I could get done. Much better than nothing!|

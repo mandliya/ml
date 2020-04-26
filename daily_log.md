@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 13 | 13 | 25 April 2020 | Continuing Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Used `plot_confusion_matrix`, deeper understanding of precision and recall, and learned F1-score|
 | 12 | 12 | 24 April 2020 | Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Learned confusion matrix again, so not to get confused with it ever again. Precision and Recall. `StratifiedKFold` and `cross_val_predict` of `Scikit-Learn|
 | 11 | 11 | 23 April 2020 | Started chapter 3 of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Learned classification basics. Also learned some `matplotlib` and linear algebra.|
 | 10 | 10 | 22 April 2020 | All exercises of Chapter 2 of [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). `RandomizedSearchCV` with `SVM`, full `Scikit-Learn` pipeline with data preparation, top k feature importances and predictions.|

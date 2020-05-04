@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 20 | 20 | 2 May 2020 | Multilabel classification using KNN, also created data for Multioutput classification, trained a classfier and got predictions. Classificaiton done!. Now waiting for results of exercise 1. Tomorrow it is going to be fun day of exercise 2, the titanic problem from Kaggle! **FINISHED** Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|
 | 20 | 20 | 2 May 2020 | Analysis of errors of multi-class classification and improving it based on insights. Also studied linear algebra. Notes and Anki card tomorrow.Continuing Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|
 | 19 | 19 | 1 May 2020 | Improving multiclass classification using scaling, Error analysis of the multiclass classification using Confusion Matrix. Trained `SGDClassifier` and `SVC`.Continuing Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|
 | 18 | 18 | 30 April 2020 | Multi-Class Classification concepts. One Vs Rest, One Vs One. Also used `Scikit-Learn` to explore `OneVsRestClassifier` using `SVC`. Continuing Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|

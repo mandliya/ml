@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 19 |
-| Current Daily Streak | 21 |
+| Total Machine Learning Projects | 20 |
+| Current Daily Streak | 22 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 05/03/2020 |
+| Current Streak Dates | 04/13/2020 - 05/04/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -63,3 +63,8 @@
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**Working with time series in python**|This notebook teaches basics of time series analysis. We take a fun dataset of Seattle's Fremont Bridge bicycle data and Google's stock data to visualize, understand and work through dates and time in Python|[Time_series_basics.ipynb](time_series/Time_series_basics.ipynb).|Data is fetched directly from web.|
 <!--- Time Series end --->
+
+### Kaggle
+|No. | Project | Description | Notebook | Notes |
+|:--:| :------:| :--------- | :------: | :---: |
+|1.|**Titanic: Machine Learning from Disaster**|This notebook has the walk-through of Kaggle's iconic Titanic problem, learning from the best kernels there. Also this a solution of exercise 2 of chapter 3 of [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|[titanic_competition.ipynb](kaggle/titanic_competition.ipynb).|This notebook is downloaded from Kaggle's kernel.|

@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 23 | 23 | 5 May 2020 |Worked on Kaggle's Titanic problem, Did data exploration, imputation, built a preprocessing pipeline using `Scikit-Learn`. Trained a SVM and a Random Forest Classifier. The accuracy is around 80%. It was fun. Let's see if I can improve it tomorrow. | 
 | 22 | 22 | 4 May 2020 |Working on Exercise 2 of Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). It is the famous Kaggle's titanic survivor classification problem. Did basic data exploration. The notebook is not done yet, and need to be improved.| 
 | 21 | 21 | 3 May 2020 | Multilabel classification using KNN, also created data for Multioutput classification, trained a classfier and got predictions. Classificaiton done!. Now waiting for results of exercise 1. Tomorrow it is going to be fun day of exercise 2, the titanic problem from Kaggle! **FINISHED** Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|
 | 20 | 20 | 2 May 2020 | Analysis of errors of multi-class classification and improving it based on insights. Also studied linear algebra. Notes and Anki card tomorrow.Continuing Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|

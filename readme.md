@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 20 |
-| Current Daily Streak | 23 |
+| Total Machine Learning Projects | 21 |
+| Current Daily Streak | 24 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 05/05/2020 |
+| Current Streak Dates | 04/13/2020 - 05/06/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -26,7 +26,8 @@
 |:--:| :------:| :--------- | :------: | :---: |
 |1.| The Machine Learning Landscape | The basics of machine learning terminology, types and challenges | To be updated | Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
 |2.| End to End Machine Learning Project | In this project we will go through an example project end to end, pretending to be a recently hired data scientist in a real estate company.Here are the main steps you will go through: <ol><li>Look at the big picture.</li> <li>Get the data.</li><li>Discover and visualize the data to gain insights.</li><li>Prepare the data for Machine Learning algorithms.</li><li>Select a model and train it.</li><li>Fine-tune your model.</li><li>Present your solution.</li><li>Launch, monitor, and maintain your system</li></ol>|[End_to_end_machine_learning_project.ipynb](hands_on_machine_learning/2/End_to_end_machine_learning_project.ipynb)| Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
-|3.| Classification | In this project we will go through concepts of Classification by building a digit classifier using MNIST dataset. We will learn concepts of performance measurement for classfication (e.g. Confusion Matrix, Precision and Recall, The ROC curve etc) |[Classification.ipynb](hands_on_machine_learning/3/Classification.ipynb)| Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
+|3.| Classification | In this project we will go through concepts of Classification by building a digit classifier using MNIST dataset. We will learn concepts of performance measurement for classfication (e.g. Confusion Matrix, Precision and Recall, The ROC curve etc) |[ClassifSpication.ipynb](hands_on_machine_learning/3/Classification.ipynb)| Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
+|3.4| Classification Exercise| Buiding a Spam classifier |[spam_classifier.ipynb](hands_on_machine_learning/3/spam_classifier.ipynb)| Source: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |
 <!-- Hands on Machine Learning end -->
 
 <!--- Data Wrangling start --->

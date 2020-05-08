@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 25 | 25 | 7 May 2020 |Continuing Exercise 4 of the [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book, building a spam classifier using Spam Assassin data. Lot of preprocessing steps involving parsing of emails to plain/text, also nested emails etc.| 
 | 24 | 24 | 6 May 2020 |Exercise 4 of the [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book, building a spam classifier using Spam Assassin data. Loaded, manipulated and explored data.| 
 | 23 | 23 | 5 May 2020 |Worked on Kaggle's Titanic problem, Did data exploration, imputation, built a preprocessing pipeline using `Scikit-Learn`. Trained a SVM and a Random Forest Classifier. The accuracy is around 80%. It was fun. Let's see if I can improve it tomorrow. | 
 | 22 | 22 | 4 May 2020 |Working on Exercise 3 of Chapter 3 (classification) of the book [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). It is the famous Kaggle's titanic survivor classification problem. Did basic data exploration. The notebook is not done yet, and need to be improved.| 

@@ -5,3 +5,5 @@ readme2.md
 *.ini
 *.pdf
 temp
+datasets
+*.bz2

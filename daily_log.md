@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 26 | 26 | 8 May 2020 |An exploratory analysis of Titanic Dataset from Kaggle, few tips to get summary statistics.|[Exploring_titanic_dataset_using_pandas.ipynb](data_wrangling/Exploring_titanic_dataset_using_pandas.ipynb)| 
 | 25 | 25 | 7 May 2020 |Continuing Exercise 4 of the [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book, building a spam classifier using Spam Assassin data. Lot of preprocessing steps involving parsing of emails to plain/text, also nested emails etc.| 
 | 24 | 24 | 6 May 2020 |Exercise 4 of the [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book, building a spam classifier using Spam Assassin data. Loaded, manipulated and explored data.| 
 | 23 | 23 | 5 May 2020 |Worked on Kaggle's Titanic problem, Did data exploration, imputation, built a preprocessing pipeline using `Scikit-Learn`. Trained a SVM and a Random Forest Classifier. The accuracy is around 80%. It was fun. Let's see if I can improve it tomorrow. | 

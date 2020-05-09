@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 21 |
-| Current Daily Streak | 25 |
+| Total Machine Learning Projects | 22 |
+| Current Daily Streak | 26 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 05/07/2020 |
+| Current Streak Dates | 04/13/2020 - 05/08/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -49,6 +49,7 @@
 |13.|**Working with strings in Pandas**|In this notebooks, we explore string manipulation and easy analysis string operations on pandas.|[Working_With_Strings.ipynb](data_wrangling/pandas/Working_With_Strings.ipynb)|Source:[Python Data Science Handbook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb)|
 |14.|**A New Era of Data Analysis in Baseball**| In this notebook, we will use Statcast data to compare the home runs of two of baseball's brightest (and largest) stars, Aaron Judge (6'7") and Giancarlo Stanton (6'6"), both of whom now play for the New York Yankees.|[data_analysis_in_pandas.ipynb](data_wrangling/a_new_era_of_data_analysis_in_baseball/data_analysis_in_baseball.ipynb)| source: [Datacamp](https://www.datacamp.com/projects/250)|
 |15.|**Name Game: Gender prediction using sound**| A fun analysis of NYT's authors dataset of Children’s Picture Books. We analyze the gender distribution of authors to see if there have been changes over years based on author's names and how they sound using nysiis algorithm.|[name_game.ipynb](data_wrangling/name_game_gender_prediction_using_sound/name_game.ipynb) | source: [Datacamp](https://www.datacamp.com/projects/97) |
+|16.|**Exploring the Titanic Dataset using Pandas**| An exploratory analysis of Titanic Dataset from Kaggle, few tips to get summary statistics.|[Exploring_titanic_dataset_using_pandas.ipynb](data_wrangling/Exploring_titanic_dataset_using_pandas.ipynb) | source: [Pandas Docs](https://pandas.pydata.org/docs/getting_started/) |
 <!--- Data Wrangling end --->
 
 <!--- SQL start --->

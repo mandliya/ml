@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 28 | 28 | 10 May 2020 |Started a new notebook for concepts of [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb).This set of notebooks should cover major topics of Linear Algebra used in Machine Learning.|
 | 27 | 27 | 9 May 2020 |Finished Exercise 4 of the [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book, Built a spam classifier using Spam Assassin data. Most of the work is around exploring the data, preprocessing of data which included parsing of HTML to text, email header parsing, removing unwanted elements (URLs, numbers), Tokenizations, removing punctuations, stemming and then finally converting them to sparse vector. After this, applied logistic regression.|
 | 26 | 26 | 8 May 2020 |An exploratory analysis of Titanic Dataset from Kaggle, few tips to get summary statistics.|[Exploring_titanic_dataset_using_pandas.ipynb](data_wrangling/Exploring_titanic_dataset_using_pandas.ipynb)| 
 | 25 | 25 | 7 May 2020 |Continuing Exercise 4 of the [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book, building a spam classifier using Spam Assassin data. Lot of preprocessing steps involving parsing of emails to plain/text, also nested emails etc.| 

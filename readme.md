@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 22 |
-| Current Daily Streak | 27 |
+| Total Machine Learning Projects | 23 |
+| Current Daily Streak | 28 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 05/09/2020 |
+| Current Streak Dates | 04/13/2020 - 05/10/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -16,8 +16,9 @@
   - [Hands on Machine Learning](#Hands-on-Machine-Learning)
   - [Data Wrangling](#Data-Wrangling)
   - [SQL](#SQL)
+  - [Mathematics](#Mathematics)
   - [Time Series](#Time-Series)
-  
+    
 ## Machine Learning and Deep Learning Projects
 
 <!-- Hands on Machine Learning start -->
@@ -58,6 +59,13 @@
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**SQL Spark at scale**| In this notebook, we work through a series of exercises using Spark SQL and familiarize ourselves with how SQL works with spark.|[Mini_Project_SQL_with_Spark.ipynb](sql/sql_with_spark/Mini_Project_SQL_with_Spark.ipynb)| One of the ways to use this notebook is to try [domino trial](https://trial.dominodatalab.com), create a pyspark workspace and launch this [notebook](https://trial.dominodatalab.com/u/mandliya/springboard-mini-projects/view/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb), as we need a pyspark environment.|
 <!--- SQL end --->
+
+<!--- Mathematics start --->
+### Mathematics
+|No. | Project | Description | Notebook | Notes |
+|:--:| :------:| :--------- | :------: | :---: |
+|1.|**Linear Algebra Basics**| In this notebook, we explore basic concepts of Linear Algebra. |[Linear_Algebra_Basics.ipynb](math/linear_algebra/Linear_Algebra_Basics.ipynb)| Source: [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra).|
+<!--- Mathematics end --->
 
 <!--- Time Series start --->
 ### Time Series

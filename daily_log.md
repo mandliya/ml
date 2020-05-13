@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 30 | 30 | 12 May 2020 | Made very little progress in  [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb). Added few diagrams explaining functions. Also re-watched 3Blue1Brown's linear algebra [series](https://www.bing.com/videos/search?q=3blue1brown+linear+algebra&docid=608031729467458323&mid=AD6E1C37BB3935B320E7AD6E1C37BB3935B320E7&view=detail&FORM=VIRE)'s first few chapters.|
 | 29 | 29 | 11 May 2020 | Made further progress in  [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb). Relations, function vectors etc.|
 | 28 | 28 | 10 May 2020 |Started a new notebook for concepts of [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb).This set of notebooks should cover major topics of Linear Algebra used in Machine Learning.|
 | 27 | 27 | 9 May 2020 |Finished Exercise 4 of the [HOML](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book, Built a spam classifier using Spam Assassin data. Most of the work is around exploring the data, preprocessing of data which included parsing of HTML to text, email header parsing, removing unwanted elements (URLs, numbers), Tokenizations, removing punctuations, stemming and then finally converting them to sparse vector. After this, applied logistic regression.|

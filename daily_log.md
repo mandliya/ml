@@ -1,7 +1,8 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
-| 35 | 35 | 16 May 2020 | Geometric interpretation of dot product of vectors. Also some read up on cosine similarity.  [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook|
+| 36 | 36 | 18 May 2020 | Further progress with vector space, span, linear combination, and also dot product.[Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook|
+| 35 | 35 | 17 May 2020 | Geometric interpretation of dot product of vectors. Also some read up on cosine similarity.  [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook|
 | 34 | 34 | 16 May 2020 | Vector algebra in  [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook|
 | 33 | 33 | 15 May 2020 | Wrote about vector in the  [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook. Finished  3Blue1Brown's linear algebra [series](https://www.bing.com/videos/search?q=3blue1brown+linear+algebra&docid=608031729467458323&mid=AD6E1C37BB3935B320E7AD6E1C37BB3935B320E7&view=detail&FORM=VIRE). Added the anki cards [here](anki\Linear Algebra2.apkg). Happy Friday. This week was tough, too much work at work, "Don't break the chain" motto kept me going. Hoping for a better week next week. |
 | 32 | 32 | 14 May 2020 | Created a 30 linear algebra Anki cards based on 3Blue1Brown's linear algebra [series](https://www.bing.com/videos/search?q=3blue1brown+linear+algebra&docid=608031729467458323&mid=AD6E1C37BB3935B320E7AD6E1C37BB3935B320E7&view=detail&FORM=VIRE). Added the anki cards [here](anki\Linear Algebra2.apkg)|

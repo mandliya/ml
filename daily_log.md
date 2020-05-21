@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 38 | 38 | 20 May 2020 | Mini project: [Predicting Credit card Approvals](mini_projects/predicting_credit_card_approvals/notebook.ipynb). This involves EDA, data cleaning, data imputing and then using logistic regression, and then applying grid search to predict credit card approvals. |
 | 37 | 37 | 19 May 2020 | Progress with [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook. Some concepts like linear dependence and independence, Vector spaces and span. Not a good progress today, but some progres.|
 | 36 | 36 | 18 May 2020 | Further progress with vector space, span, linear combination, and also dot product.[Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook|
 | 35 | 35 | 17 May 2020 | Geometric interpretation of dot product of vectors. Also some read up on cosine similarity.  [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook|

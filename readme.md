@@ -1,14 +1,14 @@
 
 
-![alt tag](https://raw.githubusercontent.com/mandliya/ml/master/utils/quote.jpg)
+![alt tag](https://raw.githubusercontent.com/mandliya/ml/master/utils/image.jpg)
 
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 23 |
-| Current Daily Streak | 37 |
+| Total Machine Learning Projects | 24 |
+| Current Daily Streak | 38 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 05/19/2020 |
+| Current Streak Dates | 04/13/2020 - 05/20/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -18,6 +18,7 @@
   - [SQL](#SQL)
   - [Mathematics](#Mathematics)
   - [Time Series](#Time-Series)
+  - [Mini Projects](#Mini-Projects)
     
 ## Machine Learning and Deep Learning Projects
 
@@ -78,3 +79,8 @@
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**Titanic: Machine Learning from Disaster**|This notebook has the walk-through of Kaggle's iconic Titanic problem, learning from the best kernels there. Also this a solution of exercise 2 of chapter 3 of [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|[titanic_competition.ipynb](kaggle/titanic_competition.ipynb).|This notebook is downloaded from Kaggle's kernel.|
+
+### Mini Projects
+|No. | Project | Description | Notebook | Notes |
+|:--:| :------:| :--------- | :------: | :---: |
+|1.|**Predicting Credit Card Approvals**|In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do. We explore the data, clean it, impute it, and then apply logistic regression to predict the credit card approval.|[Predicting Credit Card Approvals](mini_projects/predicting_credit_card_approvals/notebook.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/558)|

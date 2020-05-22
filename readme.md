@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 24 |
-| Current Daily Streak | 38 |
+| Total Machine Learning Projects | 25 |
+| Current Daily Streak | 39 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 05/20/2020 |
+| Current Streak Dates | 04/13/2020 - 05/21/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -84,3 +84,4 @@
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**Predicting Credit Card Approvals**|In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do. We explore the data, clean it, impute it, and then apply logistic regression to predict the credit card approval.|[Predicting Credit Card Approvals](mini_projects/predicting_credit_card_approvals/notebook.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/558)|
+|2.|**Find Movie Similarity From Plot Summaries**|In this notebook, we will quantify the similarity of movies based on their plot summaries available on IMDb and Wikipedia, then separate them into groups, also known as clusters. We'll create a dendrogram to represent how closely the movies are related to each other..|[Find Movie Similarity From Plot Summaries](mini_projects/find_movie_similarity_from_plot_summaries/notebook.ipynb)|Source: [Datacamp](https://learn.datacamp.com/projects/648)|

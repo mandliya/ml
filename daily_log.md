@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 40 | 40 | 22 May 2020 | Course: Started "[Statistical thinking in Python](https://campus.datacamp.com/courses/statistical-thinking-in-python-part-1)" on datacamp. Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)| 
 | 39 | 39 | 21 May 2020 | Mini project: [Find Movie Similarity From Plot Summaries](mini_projects/find_movie_similarity_from_plot_summaries/notebook.ipynb). Fun mini project where we use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity.|
 | 38 | 38 | 20 May 2020 | Mini project: [Predicting Credit card Approvals](mini_projects/predicting_credit_card_approvals/notebook.ipynb). This involves EDA, data cleaning, data imputing and then using logistic regression, and then applying grid search to predict credit card approvals. |
 | 37 | 37 | 19 May 2020 | Progress with [Linear algebra](maths/linear_algebra/Linear_Algebra_Basics.ipynb) notebook. Some concepts like linear dependence and independence, Vector spaces and span. Not a good progress today, but some progres.|

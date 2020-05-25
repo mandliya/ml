@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 42 | 42 | 24 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Quantitative data exploration, summary statistics, variance, correlation, pearson correlation coeffieicient, and scatter plots. Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)| 
 | 41 | 41 | 23 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Empirical Cumulative Distribution Functions Plot, Bee Swarm Plots, Summary Statistics, Percentiles, Outliers and Box Plots, . Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)| 
 | 40 | 40 | 22 May 2020 | Course: Started "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1)" on datacamp. Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)| 
 | 39 | 39 | 21 May 2020 | Mini project: [Find Movie Similarity From Plot Summaries](mini_projects/find_movie_similarity_from_plot_summaries/notebook.ipynb). Fun mini project where we use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity.|

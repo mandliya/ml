@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 26 |
-| Current Daily Streak | 45 |
+| Total Machine Learning Projects | 27 |
+| Current Daily Streak | 46 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 05/27/2020 |
+| Current Streak Dates | 04/13/2020 - 05/28/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -65,7 +65,8 @@
 ### Mathematics
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
-|1.|**Linear Algebra Basics**| In this notebook, we explore basic concepts of Linear Algebra. |[Linear_Algebra_Basics.ipynb](math/linear_algebra/Linear_Algebra_Basics.ipynb)| Source: [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra).|
+|1.|**Linear Algebra Basics**| In this notebook, we explore basic concepts of Linear Algebra. |[Linear_Algebra_Basics.ipynb](maths/linear_algebra/Linear_Algebra_Basics.ipynb)| Source: [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra).|
+|2.|**Probability and Random Processes**| A list of basics of Probability concepts.|[Probability and Random Processes.ipynb](maths/Probability/Probability and Random Processes.ipynb)| |
 <!--- Mathematics end --->
 
 <!--- Time Series start --->

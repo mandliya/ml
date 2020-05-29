@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 46 | 46 | 28 May 2020 | Revised basic concepts of Probability. [Probability and Random Process](maths\Probability\Probability and Random Processes.ipynb)|
 | 45 | 45 | 27 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Poisson Distribution, Binomial Distribution, explored using `NumPy` . Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)|
 | 44 | 44 | 26 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Random Variable, Discrete Random Variable, Continous Random Variables, Probability Mass Functions, Binomial Distribution . Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)|
 | 43 | 43 | 25 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Probablistic Logic and Statistical Inference, Hacker statistics, Bernoulli trials, Part of probability distributions (Binomial) . Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)|

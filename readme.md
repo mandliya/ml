@@ -66,7 +66,7 @@
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**Linear Algebra Basics**| In this notebook, we explore basic concepts of Linear Algebra. |[Linear_Algebra_Basics.ipynb](maths/linear_algebra/Linear_Algebra_Basics.ipynb)| Source: [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra).|
-|2.|**Probability and Random Processes**| A list of basics of Probability concepts.|[Probability and Random Processes.ipynb](maths/Probability/Probability and Random Processes.ipynb)| |
+|2.|**Probability and Random Processes**| A list of basics of Probability concepts.|[Probability and Random Processes.ipynb](maths/Probability/Probability.ipynb)| |
 <!--- Mathematics end --->
 
 <!--- Time Series start --->

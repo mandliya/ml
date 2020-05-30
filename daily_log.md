@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 47 | 47 | 29 May 2020 | Revised basic concepts of Couting, will jump back to Probability. Moving too slow, but slow progress is better than no progress. [Counting](maths\Probability\Counting.ipynb)|
 | 46 | 46 | 28 May 2020 | Revised basic concepts of Probability. [Probability and Random Process](maths\Probability\Probability.ipynb)|
 | 45 | 45 | 27 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Poisson Distribution, Binomial Distribution, explored using `NumPy` . Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)|
 | 44 | 44 | 26 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Random Variable, Discrete Random Variable, Continous Random Variables, Probability Mass Functions, Binomial Distribution . Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)|

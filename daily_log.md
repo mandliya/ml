@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 48 | 48 | 30 May 2020 | Continued concepts of Couting. Sampling with/without replacements, with/without order. Birthday paradox, binomial coefficients. Will jump back to probability soon. [Counting](maths\Probability\Counting.ipynb)|
 | 47 | 47 | 29 May 2020 | Revised basic concepts of Couting, will jump back to Probability. Moving too slow, but slow progress is better than no progress. [Counting](maths\Probability\Counting.ipynb)|
 | 46 | 46 | 28 May 2020 | Revised basic concepts of Probability. [Probability and Random Process](maths\Probability\Probability.ipynb)|
 | 45 | 45 | 27 May 2020 | Continued Course "[Statistical thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) Poisson Distribution, Binomial Distribution, explored using `NumPy` . Notebook: [Statistical_thinking_part_1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)|

@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 49 | 49 | 31 May 2020 | Continued concepts of Couting. Rabbit holed today to *Bose-Einstein value* and unordered sampling with replacment.I need to jump back to probability tomorrow. [Counting](maths\Probability\Counting.ipynb)|
 | 48 | 48 | 30 May 2020 | Continued concepts of Couting. Sampling with/without replacements, with/without order. Birthday paradox, binomial coefficients. Will jump back to probability soon. [Counting](maths\Probability\Counting.ipynb)|
 | 47 | 47 | 29 May 2020 | Revised basic concepts of Couting, will jump back to Probability. Moving too slow, but slow progress is better than no progress. [Counting](maths\Probability\Counting.ipynb)|
 | 46 | 46 | 28 May 2020 | Revised basic concepts of Probability. [Probability and Random Process](maths\Probability\Probability.ipynb)|

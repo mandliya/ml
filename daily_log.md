@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 52 | 52 | 3 June 2020 | Some good practical problems of Random Distribution using python and `scipy`. [Probability and Random Process](maths\Probability\Probability.ipynb)|
 | 51 | 51 | 2 June 2020 | Back to  concepts of Probability. [Probability and Random Process](maths\Probability\Probability.ipynb)|. [Counting](maths\Probability\Counting.ipynb). Probability Mass Function, Cumulative Distribution Functions, Binomial Distribution, Survival Function, through lot of coin flips!|
 | 50 | 50 | 1 June 2020 | Did a fun data wrangling project where we learn about Sharpe Ratio by calculating it for the stocks of Amazon and Facebook, to figure which one is better investment. We use S&P 500 as the benchmark which measures the performance of 500 largest stocks in the US. Tomorrow, back to probability and some exercise problems.|
 | 49 | 49 | 31 May 2020 | Continued concepts of Couting. Rabbit holed today to *Bose-Einstein value* and unordered sampling with replacment.I need to jump back to probability tomorrow. [Counting](maths\Probability\Counting.ipynb)|

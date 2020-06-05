@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 53 | 53 | 4 June 2020 | Worked on a super interesting project [Reducing traffic mortality in the USA](mini_projects\reducing_traffic_mortality_in_the_USA\notebook.ipynb). It has lot of good deep data analysis, data wrangling, plotting, dimensionality reduction, and unsupervised clustering. |
 | 52 | 52 | 3 June 2020 | Some good practical problems of Random Distribution using python and `scipy`. [Probability and Random Process](maths\Probability\Probability.ipynb)|
 | 51 | 51 | 2 June 2020 | Back to  concepts of Probability. [Probability and Random Process](maths\Probability\Probability.ipynb)|. [Counting](maths\Probability\Counting.ipynb). Probability Mass Function, Cumulative Distribution Functions, Binomial Distribution, Survival Function, through lot of coin flips!|
 | 50 | 50 | 1 June 2020 | Did a fun data wrangling project where we learn about Sharpe Ratio by calculating it for the stocks of Amazon and Facebook, to figure which one is better investment. We use S&P 500 as the benchmark which measures the performance of 500 largest stocks in the US. Tomorrow, back to probability and some exercise problems.|

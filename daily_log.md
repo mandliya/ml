@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 56 | 56 | 7 June 2020 | Some fun practical problems of Conditional Probability and Law of total probability. [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 55 | 55 | 6 June 2020 | Conditional probability and some problems on independent events using python and `scipy`. [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 54 | 54 | 5 June 2020 | Calculating probabilities of multiple independent events using python and `scipy`. [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 53 | 53 | 4 June 2020 | Worked on a super interesting project [Reducing traffic mortality in the USA](mini_projects\reducing_traffic_mortality_in_the_USA\notebook.ipynb). It has lot of good deep data analysis, data wrangling, plotting, dimensionality reduction, and unsupervised clustering. |

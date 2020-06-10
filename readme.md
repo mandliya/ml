@@ -6,9 +6,9 @@
 | Current Status|     Stats     |
 | :------------: | :----------: |
 | Total Machine Learning Projects | 30 |
-| Current Daily Streak | 57 |
+| Current Daily Streak | 58 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 06/08/2020 |
+| Current Streak Dates | 04/13/2020 - 06/09/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 

@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 59 | 59 | 10 June 2020 | Deep Dive of Normal Distribution with lot of practical exercises [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 58 | 58 | 9 June 2020 | Poisson Distribution, Continuous Random Variable, Probability Density Function, Cumulative Distribution Functions and some exercises [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 57 | 57 | 8 June 2020 | Bayes Rule, and some fun other probability problems. [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 56 | 56 | 7 June 2020 | Some fun practical problems of Conditional Probability and Law of total probability. [Probability and Random Process](maths\Probability\Probability.ipynb). |

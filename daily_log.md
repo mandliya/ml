@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 61 | 61 | 12 June 2020 | Law of large numbers and central limit theorem. A lot of other exercises. [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 60 | 60 | 11 June 2020 | Poisson and Geometric Distribution with lot of practical exercises [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 59 | 59 | 10 June 2020 | Deep Dive of Normal Distribution with lot of practical exercises [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 58 | 58 | 9 June 2020 | Poisson Distribution, Continuous Random Variable, Probability Density Function, Cumulative Distribution Functions and some exercises [Probability and Random Process](maths\Probability\Probability.ipynb). |

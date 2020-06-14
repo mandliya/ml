@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 30 |
-| Current Daily Streak | 61 |
+| Total Machine Learning Projects | 31 |
+| Current Daily Streak | 62 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 06/12/2020 |
+| Current Streak Dates | 04/13/2020 - 06/13/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -95,3 +95,8 @@
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**Statistical Thiking in Python**| This course principles of statistical inference. In this course, you will start building the foundation you need to think statistically, speak the language of your data, and understand what your data is telling you. The foundations of statistical thinking took decades to build, but can be grasped much faster today with the help of computers. With the power of Python-based tools, you will rapidly get up-to-speed and begin thinking statistically by the end of this course.|[Statistical Thinking Part 1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)| [Datacamp](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1)|
+
+### Algorithms from Scratch
+|No. | Project | Description | Notebook | Notes |
+|:--:| :------:| :--------- | :------: | :---: |
+|1.| **Linear Regression** | This notebook is everything Linear Regression, all the concepts about it.|[Linear Regression](algorithms_from_scratch\Linear Regression.ipynb)|-|

@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 62 | 62 | 13 June 2020 | Practical problems of central limit theorem. And Implementation of Linear Regression from scratch [Probability and Random Process](maths\Probability\Probability.ipynb) and [Linear Regression](algorithms_from_scratch\Linear Regression.ipynb)|
 | 61 | 61 | 12 June 2020 | Law of large numbers and central limit theorem. A lot of other exercises. [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 60 | 60 | 11 June 2020 | Poisson and Geometric Distribution with lot of practical exercises [Probability and Random Process](maths\Probability\Probability.ipynb). |
 | 59 | 59 | 10 June 2020 | Deep Dive of Normal Distribution with lot of practical exercises [Probability and Random Process](maths\Probability\Probability.ipynb). |

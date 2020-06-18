@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 66 | 66 | 17 June 2020 | Progress in Stanford 224N NLP with Deep Learning by Christopher Manning. Mathematics of Word2Vec  [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|
 | 65 | 65 | 16 June 2020 | Progress in Stanford 224N NLP with Deep Learning by Christopher Manning. Localist and Distributed Representations. Word Embeddings and Distributional Semantics  [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|
 | 64 | 64 | 15 June 2020 | Started Stanford 224N NLP with Deep Learning by Christopher Manning  [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|
 | 63 | 63 | 14 June 2020 | Probability and Linear Regression, exploring conditions for linear models using residuals| [Linear Regression](algorithms_from_scratch\Linear Regression.ipynb)|

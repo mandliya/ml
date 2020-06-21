@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 69 | 69 | 20 June 2020 | Wrote notes on word2vec from what I have learned so far [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|
 | 68 | 68 | 19 June 2020 | Skip gram maths [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|
 | 67 | 67 | 18 June 2020 | Derievation of Word2Vec, but not in [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb) yet. Also worked on a quick data wrangling project : (generating_keywords_for_google_ads)[data_wrangling\generating_keywords_for_google_ads\notebook.ipynb]|
 | 66 | 66 | 17 June 2020 | Progress in Stanford 224N NLP with Deep Learning by Christopher Manning. Mathematics of Word2Vec  [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|

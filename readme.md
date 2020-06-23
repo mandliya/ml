@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 33 |
-| Current Daily Streak | 70 |
+| Total Machine Learning Projects | 34 |
+| Current Daily Streak | 71 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 06/21/2020 |
+| Current Streak Dates | 04/13/2020 - 06/22/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -97,7 +97,7 @@
 |No. | Project | Description | Notebook | Notes |
 |:--:| :------:| :--------- | :------: | :---: |
 |1.|**Statistical Thiking in Python**| This course principles of statistical inference. In this course, you will start building the foundation you need to think statistically, speak the language of your data, and understand what your data is telling you. The foundations of statistical thinking took decades to build, but can be grasped much faster today with the help of computers. With the power of Python-based tools, you will rapidly get up-to-speed and begin thinking statistically by the end of this course.|[Statistical Thinking Part 1](courses\statistical_thinking\part1\Statistical_thinking_part_1.ipynb)| [Datacamp](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1)|
-|2.|**CS 224N NLP with Deep Learning**| The Stanford course of Natural Language Processing using Deep Learning| [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)| - |
+|2.|**CS 224N NLP with Deep Learning**| The Stanford course of Natural Language Processing using Deep Learning| [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb), [Word2Vec_from_scratch](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb)| - |
 
 ### Algorithms from Scratch
 |No. | Project | Description | Notebook | Notes |

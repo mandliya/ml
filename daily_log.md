@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 72 | 72 | 23 June 2020 | Added some more implementation to [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb), still far from done.|
 | 71 | 71 | 22 June 2020 | Started implementing word2vec from scratch using NumPy. Too little progress. Perfectionism is evil :( [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb)|
 | 70 | 70 | 21 June 2020 | Complete word2vec math derivation from scratch. [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|
 | 69 | 69 | 20 June 2020 | Wrote notes on word2vec from what I have learned so far [Lecture-1-Introduction-and-Word-Vectors.ipynb ](courses\CS22N-NLP\Lecture-1-Introduction-and-Word-Vectors.ipynb)|

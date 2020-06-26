@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 74 | 74 | 25 June 2020 | finished the implementation of word2vec (some more work needed) [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb), Slow but steady, too much work at work, so could only give 30 mins today.|
 | 73 | 73 | 24 June 2020 | Added some more implementation to [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb), Slow but steady, too much work at work, so could only give 30 mins today.|
 | 72 | 72 | 23 June 2020 | Added some more implementation to [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb), still far from done.|
 | 71 | 71 | 22 June 2020 | Started implementing word2vec from scratch using NumPy. Too little progress. Perfectionism is evil :( [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb)|

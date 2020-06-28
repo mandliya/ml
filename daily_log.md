@@ -1,6 +1,7 @@
 <!-- DailyLog start -->
 | Seq No | Streak No |    Date      |     Notes      |
 |:------:|:---------:|:------------:| :------------: |
+| 76 | 76 | 27 June 2020 |A fun mini-project in which we perform basic NLP tasks using requests, BeautifulSoup and nltk library |[Word Frequency in Moby Dick](mini_projects\word_frequency_in_moby_dick\word_frequency_in_moby_dick.ipynb).|
 | 75 | 75 | 26 June 2020 | Added more self notes on Word2Vec, also solved some fun probability puzzles today (not here yet.) [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb), Slow but steady, too much work at work, so could only give 30 mins today.|
 | 74 | 74 | 25 June 2020 | finished the implementation of word2vec (some more work needed) [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb), Slow but steady, too much work at work, so could only give 30 mins today.|
 | 73 | 73 | 24 June 2020 | Added some more implementation to [Word2Vec_from_scratch.ipynb ](courses\CS22N-NLP\Word2Vec_from_scratch.ipynb), Slow but steady, too much work at work, so could only give 30 mins today.|

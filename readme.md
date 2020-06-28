@@ -5,10 +5,10 @@
 <!-- streaktable start -->
 | Current Status|     Stats     |
 | :------------: | :----------: |
-| Total Machine Learning Projects | 34 |
-| Current Daily Streak | 75 |
+| Total Machine Learning Projects | 35 |
+| Current Daily Streak | 76 |
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
-| Current Streak Dates | 04/13/2020 - 06/26/2020 |
+| Current Streak Dates | 04/13/2020 - 06/27/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
 <!-- streaktable end -->
 
@@ -92,6 +92,7 @@
 |1.|**Predicting Credit Card Approvals**|In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do. We explore the data, clean it, impute it, and then apply logistic regression to predict the credit card approval.|[Predicting Credit Card Approvals](mini_projects/predicting_credit_card_approvals/notebook.ipynb)|Source: [Datacamp](https://projects.datacamp.com/projects/558)|
 |2.|**Find Movie Similarity From Plot Summaries**|In this notebook, we will quantify the similarity of movies based on their plot summaries available on IMDb and Wikipedia, then separate them into groups, also known as clusters. We'll create a dendrogram to represent how closely the movies are related to each other..|[Find Movie Similarity From Plot Summaries](mini_projects/find_movie_similarity_from_plot_summaries/notebook.ipynb)|Source: [Datacamp](https://learn.datacamp.com/projects/648)|
 |3.|**Reducing traffic mortality in the USA**| In this notebook, we do a deep data analysis, data wrangling, plotting, dimensionality reduction, and unsupervised clustering on the data collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners |[Reducing traffic mortality in the USA](mini_projects\reducing_traffic_mortality_in_the_USA\notebook.ipynb)| Source: [Datacamp](https://projects.datacamp.com/projects/462)|
+|3.|**Word Frequency in Moby Dick**| A fun mini-project in which we perform basic NLP tasks using requests, BeautifulSoup and nltk library |[Word Frequency in Moby Dick](mini_projects\word_frequency_in_moby_dick\word_frequency_in_moby_dick.ipynb)| Source: [Datacamp](https://projects.datacamp.com/projects/38)|
 
 ### Courses
 |No. | Project | Description | Notebook | Notes |

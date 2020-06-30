@@ -10,6 +10,9 @@
 | Last Streak Dates | 06/23/2019 - 07/02/2019 |
 | Current Streak Dates | 04/13/2020 - 06/27/2020 |
 | Daily Log Progress| [daily_log.md](daily_log.md)|
+
+**On break till 07/06. I will re-start the new streak then.**
+
 <!-- streaktable end -->
 
 - [Machine Learning and Deep Learning Projects](#Machine-Learning-and-Deep-Learning-Projects)
